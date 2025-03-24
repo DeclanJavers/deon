@@ -1,0 +1,161 @@
+input,output
+set timer for three sections,set_timer
+set timer three seconds,set_timer
+/usr/local/bin/python3 /Users/declanjavers/Desktop/deon/deon.py,
+set timer for 3 seconds,set_timer
+set a timer for 1 minute,set_timer
+set a timer for 20 seconds,set_timer
+set a timer for 30 seconds,set_timer
+set timer for ten seconds,set_timer
+set timer for 10 seconds,set_timer
+whats the weather for later tonight,get_weather
+/usr/local/bin/python3 /Users/declanjavers/Desktop/deon/deon.py,
+whats the weather,get_weather
+set a timer for 10 seconds,set_timer
+/usr/local/bin/python3 /Users/declanjavers/Desktop/deon/deon.py,
+please tell me the weather and set a timer for 1 minute,"get_weather, set_timer"
+whats the weather in boston,get_weather
+set a timer for 15 seconds,set_timer
+hello how are you,
+hi how are you,
+hi how are you,
+hi how are you,
+hello how are you,
+hello how are you,
+deon how are you doing today,
+please give me an in depth analysis of the weather for enxt week,get_weather
+thank you,
+what is the date today?,get_date
+what is the date today,get_date
+what day is it tomorrow,get_date
+what is the time?,get_time
+what time will it be in an hour,get_time
+what is the date and time,"get_date, get_time"
+what is the date,get_date
+whats on my calendar,get_calendar
+what is on my calendar for the weekend,get_calendar
+/usr/local/bin/python3 /Users/declanjavers/Desktop/deon/functions/get_calendar.py,get_calendar
+please tell me my events for this weekend,get_calendar
+please list off my events for the weekend,get_calendar
+whats my scheudle for the weekend,get_calendar
+what are my plans for the weekend,get_calendar
+what times are my events this weekend?,get_calendar
+what is my schedule for the weekend and what times are events at,get_calendar
+clear,
+what are my events this weekend,get_calendar
+what are the times of my events this weekend?,get_calendar
+what are my weekend events,get_calendar
+Whatâ€™s the weather,get_weather
+How are you doing?,
+"Not too much, itâ€™s Friday at 4:40pm though so I canâ€™t complain",
+whats on my schedule for this weekend,get_calendar
+tell me my weekend plans,get_calendar
+Whatâ€™s my schedule this week,get_calendar
+Set timer for 15 seconds,set_timer
+How are you doing,
+Thatâ€™s true,
+Set timer for 10 seconds,set_timer
+Whatâ€™s in my calendar,get_calendar
+When is the diddy party,get_calendar
+can you start the diddy party with me,
+The diddy party is crazy,
+You are black,
+Hello diddy,
+Hello diddy,
+Make a poem about diddy,
+:(,
+Whatâ€™s the weather this weekend,get_weather
+How many mg of eddies should I take,
+How many mg of eddies should I take,
+Whatâ€™s up,
+Whatâ€™s up,
+Whatâ€™s on my calendar,get_calendar
+How are you doing,
+No youâ€™re woke,
+How are you today,
+You like diddy,
+What do you think about immigrants,
+What are your thoughts on abortion,
+What do you think is right,
+hwo are you,
+i think you are a liberal,
+whats the weather in bosotn,get_weather
+you voting for trump or kamala,
+I think you are working for the liberals,
+You like Hillary Clinton?,
+Explain the birds and the bees in depth please,
+Hi,
+What do you think of Deon bot,
+whats my schedule until wednesday,get_calendar
+whats my schedule until thursday,get_calendar
+whats my schedule until friday,get_calendar
+whats my schedule until next thursday,get_calendar
+please get me my plans until thursday,get_calendar
+please get my plans for the next 4 days,get_calendar
+whats on my schedule until friday?,get_calendar
+clear,
+whats on my calendar until friday,get_calendar
+whats my schedule for the rest of the week,get_calendar
+whats my schedule for the rest of my week,get_calendar
+please give me my schedule for the rest of the week,get_calendar
+Are you back,
+No way I missed you,
+Can you turn on my lights,turn_on_lights
+Please tell me a joke,
+Whatâ€™s dc united,get_weather
+What is dc united,
+Set an alarm for 10 seconds,set_timer
+Timer for 10 seconds,set_timer
+Hello,
+hello,
+what is the weather today,get_weather
+what is on my schedule,get_calendar
+ðŸ˜€,
+what is in my schedule for today,get_calendar
+whats on my schedule today?,get_calendar
+what do i have in the next week,get_calendar
+set timer for 10 seonds,set_timer
+please set a timer for 10 seconds,set_timer
+timer for 10 seconds,set_timer
+what is the weather,get_weather
+set imer for 10 seconds,set_timer
+what is the latest news,get_news_briefing
+what is on my schedule today,get_calendar
+what time is it,get_time
+tell me a joke,
+tell me a joke,
+tell me a joke,
+tell me a joke,
+tell me a joke,
+tell me a joke,
+how are you doing today,
+not really,
+get my morning update please,get_morning_update
+What’s my calendar,get_calendar
+Hi,
+Yeah tell me a joke,get_news_briefing
+Igcjhchc,
+What’s the weather,get_weather
+What’s the latest news,get_news_briefing
+What’s the news,get_news_briefing
+News update,get_news_briefing
+What’s on my calendar,get_calendar
+What’s happening this week,get_calendar
+Why does alc warn you up,
+Why does alcohol warm you up,
+You a good ai or an evil one,
+What are my weekend plans,get_calendar
+What’s your name,
+Deon what’s 2+2,
+Tell me a joke,
+Explain how mll machines work,
+Get my morning update,get_morning_update
+What are my calendar events today,get_calendar
+Turn on my lights,turn_on_lights
+Turn off my lights,turn_off_lights
+What are my calendar events,get_calendar
+hello,
+whats the weather today,get_weather
+can you tell me a key to healthy eating,
+can you give me a tip to how i can eat better?,
+turn off my lights,turn_off_lights

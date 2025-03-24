@@ -1,0 +1,13 @@
+name,description,example_commands
+turn_on_lights,This function will turn on all the possible lights,"Turn on my lights, lights on"
+turn_off_lights,This function will turn off all the possible lights,"Turn off my lights, lights off"
+get_weather,This function will tell the user about the weather in their location,"Whats is the weather, weather, weather update"
+set_timer,This function will set a timer,"Set a timer, timer, add timer"
+get_date, This function will return today's date, "What is the date, date, today's date"
+get_time, This function will return the current time, "What is the time, time, current time"
+get_calendar, This function will return the user's calendar, "What is on my calendar, calendar, my calendar"
+send_telegram_message, This function will send a message to a telegram user, "Send a message, message, telegram message"
+get_news_briefing, This function will return the latest news, "What is the news, news, news update"
+get_morning_update, This function will return the user's calendar weather and news, "Morning update, update, morning"
+turn_off_lights,This function will turn off all the possible lights,"Turn off my lights, lights off"
+turn_on_lights,This function will turn on all the possible lights,"Turn on my lights, lights on"
