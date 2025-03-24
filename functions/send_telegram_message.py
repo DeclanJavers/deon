@@ -29,9 +29,3 @@ def send_telegram_message(message):
     response = requests.post(url, json=payload)
     
     return response.json()  # Returns the JSON response from Telegram API
-
-# Example usage:
-# bot_token = '7487263044:AAGYudyHnV2JWdfJylwMlofaeGgg_Y3Zpcs'
-# chat_id = '5844367010'
-# message = 'Hello from Python!'
-# send_telegram_message(message)
