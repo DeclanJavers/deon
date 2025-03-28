@@ -16,7 +16,7 @@ Deon is a modular personal assistant system designed to understand natural langu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deon.git
+   git clone https://github.com/declanjavers/deon.git
    cd deon
    ```
 
